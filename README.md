@@ -1,2 +1,0 @@
-# covid
-Created with CodeSandbox
